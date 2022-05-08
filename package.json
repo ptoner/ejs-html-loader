@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/mcmath/ejs-html-loader#readme",
   "peerDependencies": {
-    "webpack": "2.x - 4.x",
+    "webpack": "5.x",
     "ejs": "3.x"
   },
   "dependencies": {
@@ -57,6 +57,6 @@
     "mocha": "^5.2.0",
     "relative-path-map": "^1.0.1",
     "rimraf": "^2.6.3",
-    "webpack": "^4.29.0"
+    "webpack": "^5.72.0"
   }
 }
